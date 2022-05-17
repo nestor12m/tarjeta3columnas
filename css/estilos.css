@@ -131,7 +131,7 @@ img{
   
     display: grid;
     grid-template-columns: repeat(3,290px);
-    height: 800px;
+    height: 500px;
     justify-content: center;
     align-items: center;
     
